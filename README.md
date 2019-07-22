@@ -1,7 +1,8 @@
 # Bootstrap-Portfolio
 My Bootstrap Portfolio
-Current Version: 1.0
-Added in HTML from basic-portfolio
-Added in Bootstrap Elements including nav bar and container 
-Added in the contact page
-Added in the the projects page with containers and images
+Current Version: 2.0
+added links to current projects
+added link to github 
+
+issues github pages not currently working 
+polish design and user interface
